@@ -17,7 +17,7 @@ export default function Product() {
     {
       price: 2000,
       img: './assets/stick.png',
-      title: 'Gamepad',
+      title: 'Gamepad/Stick',
     },
     {
       price: 20,
